@@ -1,4 +1,4 @@
-# NetNinja
+# NetNinja - Network packet monitoring tool
 
 NetNinja is a powerful network monitoring and management tool designed for IT professionals and network administrators. It provides real-time insights into network performance, security, and device health.
 
